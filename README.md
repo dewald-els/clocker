@@ -34,3 +34,4 @@ Start the clock
 Clocker.start();
 ```
 
+Add your own styles.
